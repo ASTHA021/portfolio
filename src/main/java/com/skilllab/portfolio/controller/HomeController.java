@@ -27,7 +27,7 @@ public class HomeController {
 
         // ---- About Section ----
         model.addAttribute("about",
-                "I'm a final-year B.Tech (CSE) student at SHEAT College of "
+                "I'm a final-year BCA student at SHEAT College of "
                 + "Engineering, Varanasi. I like building things that actually run, "
                 + "and I've spent the last year learning Java and Spring Boot properly.");
 
